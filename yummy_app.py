@@ -20,3 +20,5 @@ class YummyApp:
         if location:
             return ["Nha hang A", "Nha hang B"]
         return []
+    def ham_loi_cu_phap()
+    print("Loi roi")
